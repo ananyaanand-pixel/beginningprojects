@@ -12,3 +12,5 @@ elif url.startswith("www.") or "." in url:
     print("not safe- missing protocol or invalid format")
 else:
     print("not safe/ invalid entry")
+
+
