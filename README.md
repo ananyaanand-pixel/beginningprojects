@@ -17,6 +17,9 @@ To keep this space clean, all codes are organized inside chronologically ordered
 *   **📁 [currency converter](./currencyconverter)**
     * *Description:* A lightweight, terminal-based Python tool that allows users to quickly convert major global currencies into Indian Rupees (INR).
     * *Status:* Completed
+*   **📁 [List](./list)**
+    * *Description:* A tracking version of using and functioning of lists
+    * *Status:* Completed
 *   **📁 [ATM Machine](./atm_machine)**
     * *Description:*
     * *Status:* In Progress
