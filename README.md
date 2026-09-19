@@ -1,4 +1,4 @@
-# 🚀 start1levelbtoa — My Python & Coding Journey
+# 🚀 beginningprojects — My Python & Coding Journey
 
 Welcome to my central learning repository! I am a first-year AI & Cybersecurity student using this space to track my progress from foundational scripts to advanced applications. This repository serves as a portfolio of my college assignments, logic building, and security experiments.
 
