@@ -37,12 +37,12 @@ To run any script from this repository locally on your machine, ensure you have 
 
 2. **Clone this Repository:**
    ```bash
-   git clone https://github.com
+   git clone https://github.com/ananyaanand-pixel/beginningprojects
    ```
 
 3. **Navigate to a Specific Project:**
    ```bash
-   cd start1levelbtoa/01_password_scrambler
+   cd beginningprojects/01_password_scrambler
    ```
 
 4. **Execute the Script:**
