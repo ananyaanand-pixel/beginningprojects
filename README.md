@@ -20,6 +20,9 @@ To keep this space clean, all codes are organized inside chronologically ordered
 *   **📁 [List](./list)**
     * *Description:* A tracking version of using and functioning of lists
     * *Status:* Completed
+*   **📁 [Loop](./loop)**
+    * *Description:* A tracking version of using and functioning of loop
+    * *Status:* Completed
 *   **📁 [ATM Machine](./atm_machine)**
     * *Description:*
     * *Status:* In Progress
