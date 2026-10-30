@@ -57,7 +57,7 @@ To run any script from this repository locally on your machine, ensure you have 
 
 ## 🎯 Current Technical Roadmap
 - [x] Master basic Python console I/O and string operations
-- [ ] Implement data structures (Lists, Dictionaries, Sets)
+- [x] Implement data structures (Lists, Dictionaries, Sets)
 - [ ] Experiment with advanced hashing modules (`hashlib`, `bcrypt`)
 - [ ] Deploy lightweight scripts to Cloud environments
 
